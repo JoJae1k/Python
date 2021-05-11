@@ -9,3 +9,5 @@ print(b) #문자형 b 출력
 print(c) #문자형 c 출력
 print(d) #문자형 d 출력
 print(e) #문자형 e 출력
+
+#결론 : 식을 간추리면 매우 편하다.
