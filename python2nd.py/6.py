@@ -11,7 +11,7 @@ d = c-a #변수 d (문자형 c를 a 로 뺀 값으로 선언)
 
 print(a + b) #문자형 a와 b를 더한 값 출력
 print(a * d) #문자형 a와 d를 곲한 값 출력
-print(b % d) #문자형 b와 d를 나눈 값 출력
+print(b % d) #문자형 b와 d를 나눈 후  값 출력
 
 if a > b :
     print("Hello 0_0")
